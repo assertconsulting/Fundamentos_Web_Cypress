@@ -54,3 +54,5 @@ reports
 # Log
 screenshots/
 videos/
+
+/package-lock.json
